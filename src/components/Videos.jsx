@@ -1,9 +1,10 @@
 import React from 'react'
 import { Stack, Box } from '@mui/material';
-import {VideoCard, ChannelCard} from './';
+import VideoCard from './VideoCard';
+import ChannelCard from './ChannelCard';
 
 const Videos = ({videos}) => {
-   
+  
   return (
     <Stack 
         direction="row"
