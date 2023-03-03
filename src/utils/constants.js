@@ -17,7 +17,7 @@ export const logo2 = '../utils/images/FT_Logo@3x.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'HTML', icon: <CodeIcon />, },
+  { name: 'JS Mastery', icon: <CodeIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
