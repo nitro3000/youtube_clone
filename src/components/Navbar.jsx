@@ -1,11 +1,12 @@
 
 import { Stack } from '@mui/material';
 import { Link } from 'react-router-dom';
-import { logo, logo2, logo3 } from '../utils/constants';
+import { logo } from '../utils/constants';
 import SearchBar from './SearchBar';
 
 const Navbar = () => (
  <Stack 
+   
     direction='row' 
     alignItems='center'
     p={2}

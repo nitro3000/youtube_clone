@@ -12,9 +12,7 @@ import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 import HtmlSharpIcon from '@mui/icons-material/HtmlSharp';
 import CssSharpIcon from '@mui/icons-material/CssSharp';
 
-export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
-export const logo2 = '../utils/images/FT_Logo@3x.png';
-export const logo3 = '../utils/images/favicon.ico';
+export const logo = '../logo.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
